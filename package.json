@@ -1,0 +1,28 @@
+{
+  "name": "graph-weather-csv",
+  "version": "1.0.0",
+  "description": "weather related csv manipulation tool",
+  "main": "index.js",
+  "dependencies": {
+    "tingodb": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erenard/graph-weather-csv.git"
+  },
+  "keywords": [
+    "graphweather",
+    "csv",
+    "meteo"
+  ],
+  "author": "Eric Renard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erenard/graph-weather-csv/issues"
+  },
+  "homepage": "https://github.com/erenard/graph-weather-csv#readme"
+}
